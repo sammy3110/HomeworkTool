@@ -45,9 +45,6 @@ ________________________________________________________________________________
 Run HomeworkGUI.py to run the tool and you will get an interface as shown below:
 ![GUI Interface](/Images/GUI_Tool.jpg)
 
-Now browse for the text image and the folder you want to create your handwritten image. As you will do so you will see a button **Do Homework**. Click the button and the hand written image will open in few seconds and will be saved to the location you provided.
-
-Thank You very much for reading !
 
 I will include the code to improve the resizing of the letters on its own in later update.
 
