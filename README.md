@@ -13,9 +13,9 @@ Here are the commands to install then through pip in cmd.
 
 Open 'command prompt' and use these commands to install the modules
 
-* pip install pillow
-* pip install PIL
-* pip install pytesseract
+* `<addr>` pip install pillow
+* `<addr>` pip install PIL
+* `<addr>` pip install pytesseract
 
 HomeWork Tool is a tool created using python for the purpose of converting the images containing
 text into another image having the same text in hand-written text. This code is opensource and any
