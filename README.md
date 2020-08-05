@@ -21,7 +21,7 @@ ___________________  SIZE OF ALPHABETS ___________________________
 2) The letters ['b', 'd', 'f', 'h', 'k', 'l', 't', 'g', 'j', 'p', 'q', 'y'] should be of size: hor-30px, ver-66px
 3) The letters ['a', 'c', 'e', 'i', 'm', 'n', 'o', 'r'] should be of size: hor-30px, ver-33px
 -NOTE: You can resize the letters from default paint in windows.
-
+![GitHub Logo](/Images/Paint_Resize.jpg)
 
 I will include the code to improve the resizing of the letters on its own in later update.
 
