@@ -44,10 +44,13 @@ ________________________________________________________________________________
 ### THATS ALL ! YOU ARE READY TO GO
 Run HomeworkGUI.py to run the tool and you will get an interface as shown below:
 ![GUI Interface](/Images/GUI_Tool.jpg)
+Now browse for your Text Image file and the folder you want to paste the image. nce you do so you will find a button **Do Homework**, Click it and an handwritten image will pop up in few seconds and will be saved at the location you provided.
 
+Thank You readers !
 
 I will include the code to improve the resizing of the letters on its own in later update.
 
 ____________________________________________________________________
 
-Thank You !
+Stay Safe !
+Peace !
