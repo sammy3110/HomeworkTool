@@ -41,7 +41,7 @@ As show in this image:
 ![Pytesseract Path](/Images/Tesseract_Path.jpg)
 
 ______________________________________________________________________________________
-**THATS ALL ! YOU ARE READY TO GO**
+### THATS ALL ! YOU ARE READY TO GO
 Run HomeworkGUI.py to run the tool and you will get an interface as shown below:
 ![GUI Interface](/Images/GUI_Tool.jpg)
 
