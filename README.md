@@ -6,6 +6,17 @@ https://github.com/Ankit404butfound
 
 I just tried a little from my side.
 
+____________________________________________________________________________________
+
+First of all you will have to install some libraries.
+Here are the commands to install then through pip in cmd.
+
+Open 'command prompt' and use these commands to install the modules
+
+* pip install pillow
+* pip install PIL
+* pip install pytesseract
+
 HomeWork Tool is a tool created using python for the purpose of converting the images containing
 text into another image having the same text in hand-written text. This code is opensource and any
 improvement is welcomed. 
