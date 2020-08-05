@@ -9,9 +9,9 @@ class Homework:
 
     def toText(self, img):
 
-        script_dir = os.path.dirname(os.path.abspath(__file__))
-        folder_path = os.path.join(script_dir, "Tesseract-OCR\\tesseract.exe")
-        pytesseract.pytesseract.tesseract_cmd = folder_path
+        # script_dir = os.path.dirname(os.path.abspath(__file__))
+        # folder_path = os.path.join(script_dir, "Tesseract-OCR\\tesseract.exe")
+        pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
         result = pytesseract.image_to_string(img)
         return result
 
