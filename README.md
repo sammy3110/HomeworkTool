@@ -40,7 +40,7 @@ Go to `C:\Program Files\Tesseract-OCR` or whichever path you have installed pyte
 As show in this image:
 ![Pytesseract Path](/Images/Tesseract_Path.jpg)
 
-__________________________ **THATS ALL ! YOU ARE READY TO GO** _________________________
+__________________________ **THATS ALL ! YOU ARE READY TO GO** ____________________________
 Run HomeworkGUI.py to run the tool and you will get an interface as shown below:
 ![GUI Interface](/Images/GUI_Tool.jpg)
 
